@@ -60,7 +60,7 @@ In order to apply the `Roboto` font to this element, make sure you've imported `
 @demo demo/index.html
 */
 Polymer({
-  is: 'paper-toggle-button',
+  is: 'hmx-toggle',
   /** @override */
   _template: html`
     <style>

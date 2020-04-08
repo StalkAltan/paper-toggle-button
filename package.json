@@ -1,17 +1,12 @@
 {
-  "description": "A material design toggle button control",
-  "keywords": [
-    "web-components",
-    "polymer",
-    "toggle",
-    "control"
-  ],
+  "description": "A fork of material design toggle button control",
+  "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git://github.com/PolymerElements/paper-toggle-button"
+    "url": "git://github.com/StalkAltan/paper-toggle-button.git"
   },
-  "homepage": "https://github.com/PolymerElements/paper-toggle-button",
-  "name": "@polymer/paper-toggle-button",
+  "homepage": "https://github.com/StalkAltan/paper-toggle-button.git",
+  "name": "@stalkaltan/paper-toggle-button",
   "license": "BSD-3-Clause",
   "devDependencies": {
     "webmat": "^0.2.0",
@@ -29,7 +24,7 @@
   },
   "version": "3.0.1",
   "main": "paper-toggle-button.js",
-  "author": "The Polymer Authors",
+  "author": "Altan Stalker",
   "dependencies": {
     "@polymer/polymer": "^3.0.0",
     "@polymer/iron-checked-element-behavior": "^3.0.0-pre.26",
